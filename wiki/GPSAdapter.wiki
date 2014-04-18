@@ -1,0 +1,7 @@
+#summary Small GPS Adpater to "hook" into the GPS Bus.
+
+Small GPS Adpater to "hook" into the GPS Bus
+
+<img src="https://code.google.com/p/nazatofrsky/source/browse/files/GPS_Adpater_1.jpg">
+
+<img src="https://code.google.com/p/nazatofrsky/source/browse/files/GPS_Adpater_2.jpg">
